@@ -1,0 +1,2 @@
+class SortingException(Exception):
+    pass
